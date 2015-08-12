@@ -1,3 +1,7 @@
+# Vagrant Chef Workstation setup based on the following git repo
+Following is the modification:
+- Xubuntu 14.04.1 
+
 # Vagrant Chef for CakePHP [![Build Status](https://travis-ci.org/FriendsOfCake/vagrant-chef.svg)](https://travis-ci.org/FriendsOfCake/vagrant-chef)
 
 
